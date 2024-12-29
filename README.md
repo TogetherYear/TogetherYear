@@ -1,13 +1,14 @@
 <p align="left" style="font-size:20px;">
-    <a  href="https://github.com/TogetherYear/EVV"><img style="width:30px;height:30px;" align="left" src="https://www.electronjs.org/zh/assets/img/favicon.ico"  />
-    快速开始 Electron for windows
+    <a  href="https://github.com/TogetherYear/EVV">
+        <img style="width:30px;height:30px;" align="left" src="https://www.electronjs.org/zh/assets/img/favicon.ico"  />
+        快速开始 Electron for windows
     </a>
 </p>
 <br/>
 <p align="left" style="font-size:20px;"> 
-<a  href="https://github.com/TogetherYear/TVV">
-    <img style="width:30px;height:30px;" align="left" src="https://tauri.app/favicon.svg"  />
-    快速开始 Tauri for windows
+    <a  href="https://github.com/TogetherYear/TVV">
+        <img style="width:30px;height:30px;" align="left" src="https://tauri.app/favicon.svg"  />
+        快速开始 Tauri for windows
     </a>
 </p>
 <br/>
