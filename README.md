@@ -32,3 +32,9 @@
         快速开始 ThreeJS
     </a>
 </p>
+<p align="left" style="font-size:20px;"> 
+    <a  href="https://github.com/TogetherYear/Simple-X6">
+        <img style="width:30px;height:30px;" align="left" src="https://gw.alipayobjects.com/zos/antfincdn/FLrTNDvlna/antv.png"  />
+        快速开始 X6JS
+    </a>
+</p>
